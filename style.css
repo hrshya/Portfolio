@@ -290,15 +290,15 @@ html, body {
     }
     
     #nav a {
-        font-size: 24px;
+        font-size: 16px;
     }
 
     #nav h4 {
-        font-size: 24px;
+        font-size: 16px;
     }
     
     #heading {
-        margin-top: 250px;
+        margin-top: 200px;
     }
     
     #heading h1 {
@@ -311,7 +311,7 @@ html, body {
     }
     
     .blocktext h5 {
-        font-size: 20px;
+        font-size: 16px;
         letter-spacing: 2px;
     }
     
@@ -329,8 +329,8 @@ html, body {
     }
     
     #herofooter .circle {
-        width: 35px;
-        height: 35px;
+        width: 30px;
+        height: 30px;
     }
     
     #second {
@@ -343,16 +343,21 @@ html, body {
     #about {
         display: flex;
         align-items: center;
-        gap: 50px;
+        gap: 30px;
         /* margin-top: 22vw; */
         color: #fff;
         padding: 10vw 10vw;
         /* padding-left: 40vw; */
         width: 100dvw;
     }
+
+    #about img{
+        width: 30%;
+    }
     
     #textabout {
-        width: 25rem;
+        width: 70%;
+        background: red;
     }
 
     
