@@ -350,6 +350,7 @@ html, body {
         padding: 10vw 10vw;
         /* padding-left: 40vw; */
         width: 100dvw;
+        margin-bottom: 10vw;
     }
 
     #about img{
