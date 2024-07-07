@@ -343,6 +343,7 @@ html, body {
     #about {
         display: flex;
         align-items: center;
+        flex-direction: column;
         gap: 30px;
         /* margin-top: 22vw; */
         color: #fff;
@@ -352,12 +353,12 @@ html, body {
     }
 
     #about img{
-        width: 30%;
+        width: 200px;
+        height: 200px;
     }
     
     #textabout {
-        width: 70%;
-        background: red;
+        width: 100%;
     }
 
     
